@@ -10,8 +10,8 @@
     <!-- Datatables -->
     <link href="assets/datatables/dataTables.dataTables.css" rel="stylesheet">
     
-    <!-- css-->
-    <link href="assets/css/style2.css" rel="stylesheet">
+    <!-- css
+    <link href="assets/css/style2.css" rel="stylesheet"> -->
 
     <style>
       html, body {
